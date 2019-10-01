@@ -2,6 +2,6 @@
 
 int main()
 {
-	int i=7;
+	int i=999999999;
 	return 0;
 }
