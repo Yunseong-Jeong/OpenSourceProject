@@ -2,6 +2,6 @@
 
 int main()
 {
-	int i=3;
+	int i=4444;
 	return 0;
 }
